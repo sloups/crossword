@@ -229,7 +229,7 @@ export function checkAnswers() {
     }
   });
   if (isPuzzleComplete(grid)) {
-    setTimeout(() => alert('Congratulations! Puzzle complete!'), 100);
+    setTimeout(() => alert('Quelle rapidité !'), 100);
   }
 }
 

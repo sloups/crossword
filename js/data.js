@@ -29,6 +29,7 @@ export const puzzle = {
   { answer: "PIGEON", clue: "Mon pire cauchemar", row: 8, col: 16, direction: "down", number: 21 },
   { answer: "SOL", clue: "Il est le 1er que la friteuse nourri", row: 12, col: 18, direction: "down", number: 22 },
   { answer: "BONACCEUIL", clue: "(1) Faux départ", row: 1, col: 12, direction: "down", number: 23 },
+  { answer: "URL", clue: "(14) Adresse", row: 13, col: 5, direction: "across", number: 24 },
 ]
 };
 
